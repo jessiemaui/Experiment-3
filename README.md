@@ -11,9 +11,9 @@ This experiment explores the use of pandas for efficient data analysis. By loadi
 2. To be able to apply and use the different codes and functions in creating a Python program using a Pandas library.
 
 #### II. Instructions
-Write a Python script/code in the Jupyter Notebook to do the given problem. You may submit your Jupyter notebook in the dedicated submission bin.
+        Write a Python script/code in the Jupyter Notebook to do the given problem. You may submit your Jupyter notebook in the dedicated submission bin.
 
-For this programming assignment, download the following file and save to your default user folder: https://bit.ly/Cars_file
+        For this programming assignment, download the following file and save to your default user folder: https://bit.ly/Cars_file
 
 ##### Problem Overview
 #### Problem 1: Exploring the Cars Dataset
