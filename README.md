@@ -19,9 +19,9 @@ For this programming assignment, download the following file and save to your de
 #### Problem 1: Exploring the Cars Dataset
         We will be working with a dataset in .csv format and performing the following tasks:
          a. Step 1: Load the dataset into a pandas DataFrame names c a r s.
-         b. Display the first five and last five rows of the DataFrame to inspect the structure               and content of the dataset.
+         b. Display the first five and last five rows of the DataFrame to inspect the structure and content of the dataset.
 
-         The dataset represents real-world data related to cars, and this simple analysis will             help us gain familiarity with loading and exploring the data using pandas.
+         The dataset represents real-world data related to cars, and this simple analysis will help us gain familiarity with loading and exploring the data using pandas.
 
          Setup Instructions!
  
