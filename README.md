@@ -61,5 +61,13 @@ This experiment explores the use of pandas for efficient data analysis. By loadi
 
         Part D: Finding Cylinders and Gear Types for Multiple Cars
                 Step 1: Make sure that the csv file is uploaded on the same data file in your jupyter notebook where you will do your code. Never forget to import pandas!
-                Step 2: 
+                Step 2: I put an initial output variable with no strings attached to ready my concatenation for the three car models required in the problem.
+                Step 3: Using the variable 'model', I summoned car to call the csv file and specified the model with .str.contain() method for Mazda RX4 Wag.
+                Step 4: We can now enter the first output += with the newline character to create a presentable sentence form of the DataFrame. I did the Step 5 of the Part C problem here but with the addition of 'gear' at the end since its part of our problem.
+                Step 5: To continue, I summoned variable model again but this time, we shall specify the model Ford Pantera L.
+                Step 6: Let's do the 4th step for the second output += specifically for Ford Pantera L.
+                Step 7: For our last element which is Honda Civic, I redo the Step 3 and 4 for this.
+                Step 8: Let's test this out by ending our code with print(output) then shift+enter.
+
+                And there we have it! We've easily retrieved the cylinder count and gear for these cool cars. 
         
