@@ -42,5 +42,14 @@ This experiment explores the use of pandas for efficient data analysis. By loadi
                 We now have just the odd-numbered columns. Let's move on to the next part of problem 2, shall we?
 
         Part B: Finding the row with 'Mazda RX4'
-                Step 1: 
+                Step 1:  Make sure that the csv file is uploaded on the same data file in your jupyter notebook where you will do your code.
+                Step 2: Call a variable for a new entry, don't forget to summon car since that's where will be getting our data. 
+                Step 3: Specify 'Model' for the variable car focus in calling the model column and use .str.contains() method to call a certain element under the model column which is Mazda RX4.
+                Step 4: Print! Since its not stated that the index is required for the output, to make our output cleaner use the key index=False.
+
+                Nice! We've successfully retrieved the row for Mazda RX4.
+
+        Part C: How many Cylinders in 'Camaro Z28'?
+                Step 1: Make sure that the csv file is uploaded on the same data file in your jupyter notebook where you will do your code.
+                Step 2: 
         
