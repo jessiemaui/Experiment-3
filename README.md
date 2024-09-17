@@ -17,11 +17,30 @@ This experiment explores the use of pandas for efficient data analysis. By loadi
 
 ## Problem Overview
 #### Problem 1: Exploring the Cars Dataset
-        We will be working with a dataset in .csv format and performing the following tasks:
-         a. Step 1: Load the dataset into a pandas DataFrame names c a r s.
-         b. Display the first five and last five rows of the DataFrame to inspect the structure and content of the dataset.
-
-         The dataset represents real-world data related to cars, and this simple analysis will help us gain familiarity with loading and exploring the data using pandas.
+        We will be working with a dataset in .csv format and performing the following tasks: The dataset represents real-world data related to cars, and this simple analysis will help us gain familiarity with loading and exploring the data using pandas.
 
          Setup Instructions!
- 
+
+         Step 1: The csv file should be uploaded on the same data file with your jupyter notebook before we call the PANDAS library.
+         Step 2: Importing the pandas library, which is the core tool used in this experiment for manipulating data.
+         Step 3: Next, we will load the data set we are working with contains informations about various cars.
+         Step 4: Display the first five rows by using head() method.
+         Step 5: Display the last five rows by using tail() method.
+         Step 6: Print and we're done!
+
+         By following these steps, we can perform a basic exploration of the dataset using pandas, laying the foundation for more complex problems in the future!
+
+#### Problem 2: Probe further into the Cars Dataset
+        Now that we've loaded and explored the basics of our cars dataset, it's time to level up and get hands-on with some advanced -- atleast for me -- pandas techniques. We'll be using subsetting, slicing, and indexing to extract more specific information from the dataset!
+
+        Part A: Displaying Rows with Odd-numbered Columns
+                Step 1: Make sure that the csv file is uploaded on the same data file in your jupyter notebook where you will do your code.
+                Step 2: Call the odd_columns and make sure to include the variable car with columns and specifiy which column in the csv file you are extracting.
+                Step 3: To make our code cleaner, summon a new variable to specify that we will be getting only the first five rows and use the head() method.
+                Step 4: Print and we're done with part A!
+
+                We now have just the odd-numbered columns. Let's move on to the next part of problem 2, shall we?
+
+        Part B: Finding the row with 'Mazda RX4'
+                Step 1: 
+        
