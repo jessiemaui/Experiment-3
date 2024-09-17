@@ -15,7 +15,7 @@ This experiment explores the use of pandas for efficient data analysis. By loadi
 
         For this programming assignment, download the following file and save to your default user folder: https://bit.ly/Cars_file
 
-##### Problem Overview
+#### Problem Overview
 #### Problem 1: Exploring the Cars Dataset
         We will be working with a dataset in .csv format and performing the following tasks:
          a. Step 1: Load the dataset into a pandas DataFrame names c a r s.
