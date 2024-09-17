@@ -34,7 +34,7 @@ This experiment explores the use of pandas for efficient data analysis. By loadi
         Now that we've loaded and explored the basics of our cars dataset, it's time to level up and get hands-on with some advanced -- atleast for me -- pandas techniques. We'll be using subsetting, slicing, and indexing to extract more specific information from the dataset!
 
         Part A: Displaying Rows with Odd-numbered Columns
-                Step 1: Make sure that the csv file is uploaded on the same data file in your jupyter notebook where you will do your code.
+                Step 1: Make sure that the csv file is uploaded on the same data file in your jupyter notebook where you will do your code. Never forget to import pandas!
                 Step 2: Call the odd_columns and make sure to include the variable car with columns and specifiy which column in the csv file you are extracting.
                 Step 3: To make our code cleaner, summon a new variable to specify that we will be getting only the first five rows and use the head() method.
                 Step 4: Print and we're done with part A!
@@ -42,7 +42,7 @@ This experiment explores the use of pandas for efficient data analysis. By loadi
                 We now have just the odd-numbered columns. Let's move on to the next part of problem 2, shall we?
 
         Part B: Finding the row with 'Mazda RX4'
-                Step 1:  Make sure that the csv file is uploaded on the same data file in your jupyter notebook where you will do your code.
+                Step 1:  Make sure that the csv file is uploaded on the same data file in your jupyter notebook where you will do your code. Never forget to import pandas!
                 Step 2: Call a variable for a new entry, don't forget to summon car since that's where will be getting our data. 
                 Step 3: Specify 'Model' for the variable car focus in calling the model column and use .str.contains() method to call a certain element under the model column which is Mazda RX4.
                 Step 4: Print! Since its not stated that the index is required for the output, to make our output cleaner use the key index=False.
@@ -50,6 +50,16 @@ This experiment explores the use of pandas for efficient data analysis. By loadi
                 Nice! We've successfully retrieved the row for Mazda RX4.
 
         Part C: How many Cylinders in 'Camaro Z28'?
-                Step 1: Make sure that the csv file is uploaded on the same data file in your jupyter notebook where you will do your code.
+                Step 1: Make sure that the csv file is uploaded on the same data file in your jupyter notebook where you will do your code. Never forget to import pandas!
+                Step 2: Same with Part B, call a new variable for new entry but don't forget to summon car because that's where our dataset is. 
+                Step 3: Then again, specify the 'Model' and use .str.contain() method so our code will read on 'Model' column specifically on the 'Camaro Z28'.
+                Step 4: To have a presentable output, let's use the newline character to accord the sentence we're trying to make for our output.
+                Step 5: With the newline character, lets make a sentence. Start with "\nThe then include plus sign then call model variable to read inside it (the car) then specify model and use .to_string() method to render a DataFrame into a sting presentation with the index=False to remove the index infront, add another plus sign for the word 'have' and another plus sign to include the cylinder number with the help of .to_string again with the index=False and one last plus sign to add the word 'cylinder/s' to complete the sentence.
+                Step 6: Add the print() method on the first part of step 5 and voila!
+
+                Now we have the number of cylinders, just like that! Let's move on now to the last and hardest part of this experiment.
+
+        Part D: Finding Cylinders and Gear Types for Multiple Cars
+                Step 1: Make sure that the csv file is uploaded on the same data file in your jupyter notebook where you will do your code. Never forget to import pandas!
                 Step 2: 
         
