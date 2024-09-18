@@ -72,9 +72,9 @@ This experiment explores the use of pandas for efficient data analysis. By loadi
                 And there we have it! We've easily retrieved the cylinder count and gear for these cool cars. 
 
 ### Conclusion
-        We are now done in navigating the epxeriment using panas to load, explore, and manipulate real-world datasets. 
+We are now done in navigating the epxeriment using panas to load, explore, and manipulate real-world datasets. 
 
-## We've covered everything from basic adta loading to advanced slicing and subsetting, mastering the essential concepts of data analysis in Python. With this foundation, we're rady to dive into more complex datasets and conduct powerful analyses!
+## We've covered everything from basic data loading to advanced slicing and subsetting, mastering the essential concepts of data analysis in Python. With this foundation, we're ready to dive into more complex datasets and conduct powerful analyses!
 
 ### Let's continue exploring, experimenting, and refining our data analysis skills! Thank you for joining me in this journey, and see you next time! :)
 
