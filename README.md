@@ -36,7 +36,7 @@ This experiment explores the use of pandas for efficient data analysis. By loadi
         Part A: Displaying Rows with Odd-numbered Columns
                 Step 1: Make sure that the csv file is uploaded on the same data file in your jupyter notebook where you will do your code. Never forget to import pandas!
                 Step 2: Call the odd_columns and make sure to include the variable car with columns and specifiy which column in the csv file you are extracting.
-                Step 3: To make our code cleaner, summon a new variable to specify that we will be getting only the first five rows and use the head() method.
+                Step 3: To make our code cleaner, summon a new variable to specify that we will be getting only the first five rows and use the iloc method to satisfy both conditions, the rows and required columns for our output.
                 Step 4: Print and we're done with part A!
 
                 We now have just the odd-numbered columns. Let's move on to the next part of problem 2, shall we?
